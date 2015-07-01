@@ -2,7 +2,7 @@
 
 This project was a Lab assignment for the course Software Evolution at the University of Amsterdam during the Master Programm Software Engineering.
 
-It is used to to measure code maintainability through static code analysis using the programming language Rascal (http://www.rascal-mpl.org/). The used metrics are based on the SIG Maintainability model invented by the Software Improvement Group (https://www.sig.eu/).
+It is used to measure code maintainability through static code analysis using the programming language Rascal (http://www.rascal-mpl.org/). The used metrics are based on the SIG Maintainability model invented by the Software Improvement Group (https://www.sig.eu/).
 
 Reference: http://dx.doi.org/10.1109/QUATIC.2007.8
 
@@ -10,6 +10,7 @@ Reference: http://dx.doi.org/10.1109/QUATIC.2007.8
 Usage:
 
 1) Install Rascal
+
 2) Start rascal console
 
 Example:
